@@ -1,0 +1,23 @@
+export const nameBand = 'EARTH, WIND & FIRE ';
+export let nameSongs = [
+	"SEPTEMBER", /*1*/
+	"BOOGIE WONDERLAND", /*2*/
+	"LET'S GROOVE", /*3*/
+	"SHINING STAR", /*4*/
+	"AFTER THE LOVE HAS GONE", /*5*/
+	"FANTASY", /*6*/
+	"SING A SONG", /*7*/
+	"THAT'S THE WAY OF THE WORLD", /*8*/
+	"GETAWAY", /*9*/
+	"SERPENTINE FIRE", /*10*/
+	"IN THE STONE", /*11*/
+	"REASONS", /*12*/
+	"CAN'T HIDE LOVE", /*13*/
+	"GOT TO GET YOU INTO MY LIFE", /*14*/
+	"KEEP YOUR HEAD TO THE SKY", /*15*/
+	"LOVE'S HOLIDAY", /*16*/
+	"SYSTEM OF SURVIVAL", /*17*/
+	"MIGHTY MIGHTY", /*18*/
+	"DEVOTION", /*19*/
+	"BE EVER WONDERFUL", /*20*/
+]
